@@ -39,8 +39,9 @@
 
 ## 자동제어
 <p align="center">
-  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/da1d9642-9b8e-4691-82b9-273c2397babf">
+  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/4e2812f4-2798-4005-8865-9e75acc2f241">
 </p>
+
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/0f239c19-3e1b-4c42-a7c5-ac44bd5e8ade">
 </p>
@@ -48,7 +49,7 @@
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/e513a082-39b6-4ed5-9fad-3b753743f6c7">
 </p>
 <p align="center">
-  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/17067ee7-d886-440e-b88a-825f9624848b">
+  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/51499d9c-9a81-40d0-9eaa-8a2406dbaeda">
 </p>
 
 <p align="center">
