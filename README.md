@@ -22,6 +22,21 @@
 - 제어 알고리즘 구현
 - 제어 회로 구성
 
+### 프로젝트 결과 소개
+## 수동제어
+![수동1](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/db2b5ccc-1c89-44ea-a526-f205b6db52bb)
+![수동2](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/1ae9ac38-0646-458a-90be-9610bebf401d)
+![수동3](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/cc762c2e-7758-4cd4-8a22-714e765aec39)
+![수동4](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/ab4713db-c370-4253-91d6-9f27cb8d163a)
+
+##자동제어
+![자동제어1](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/da1d9642-9b8e-4691-82b9-273c2397babf)
+![자동2](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/0f239c19-3e1b-4c42-a7c5-ac44bd5e8ade)
+![자동3](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/e513a082-39b6-4ed5-9fad-3b753743f6c7)
+![자동제어6](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/17067ee7-d886-440e-b88a-825f9624848b)
+![자동4](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/b9738d51-d927-4206-a089-efcd584de7b0)
+![자동5](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/4a76134a-799c-4a07-b6be-2769b53eafcd)
+
 ### 프로젝트 후 배운 점
 - 협업은 서로 다른 능력의 상호작용을 통해 이뤄짐을 깨달음
 - 제어 알고리즘 구현 지식 습득
