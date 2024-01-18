@@ -23,38 +23,44 @@
 - 제어 회로 구성
 
 ### 프로젝트 결과 소개
-## 수동제어
+#### 수동제어
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/db2b5ccc-1c89-44ea-a526-f205b6db52bb">
 </p>
+
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/1ae9ac38-0646-458a-90be-9610bebf401d">
 </p>
+
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/cc762c2e-7758-4cd4-8a22-714e765aec39">
 </p>
+
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/ab4713db-c370-4253-91d6-9f27cb8d163a">
 </p>
 
-## 자동제어
+#### 자동제어
 <p align="center">
-  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/4e2812f4-2798-4005-8865-9e75acc2f241">
+  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/bae8d818-e864-4560-9e59-f6a79dda28a5">
 </p>
 
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/0f239c19-3e1b-4c42-a7c5-ac44bd5e8ade">
 </p>
+
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/e513a082-39b6-4ed5-9fad-3b753743f6c7">
 </p>
+
 <p align="center">
-  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/51499d9c-9a81-40d0-9eaa-8a2406dbaeda">
+  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/1fb43ecd-7920-4b4c-8102-67a7725b8535">
 </p>
 
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/b9738d51-d927-4206-a089-efcd584de7b0">
 </p>
+
 <p align="center">
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/4a76134a-799c-4a07-b6be-2769b53eafcd">
 </p>
