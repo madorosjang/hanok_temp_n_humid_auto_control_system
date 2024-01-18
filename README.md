@@ -24,12 +24,15 @@
 
 ### 프로젝트 결과 소개
 ## 수동제어
-![수동1](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/db2b5ccc-1c89-44ea-a526-f205b6db52bb)
+<p align="center" style="color:gray">
+  <img style="margin:10px 0 10px 0"src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/db2b5ccc-1c89-44ea-a526-f205b6db52bb" alt="factorio thumbnail">
+  전체창문 열기
+</p>
 ![수동2](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/1ae9ac38-0646-458a-90be-9610bebf401d)
 ![수동3](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/cc762c2e-7758-4cd4-8a22-714e765aec39)
 ![수동4](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/ab4713db-c370-4253-91d6-9f27cb8d163a)
 
-##자동제어
+## 자동제어
 ![자동제어1](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/da1d9642-9b8e-4691-82b9-273c2397babf)
 ![자동2](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/0f239c19-3e1b-4c42-a7c5-ac44bd5e8ade)
 ![자동3](https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/e513a082-39b6-4ed5-9fad-3b753743f6c7)
