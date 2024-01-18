@@ -48,13 +48,14 @@
   <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/e513a082-39b6-4ed5-9fad-3b753743f6c7">
 </p>
 <p align="center">
-  <img src="(https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/17067ee7-d886-440e-b88a-825f9624848b)">
+  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/17067ee7-d886-440e-b88a-825f9624848b">
+</p>
+
+<p align="center">
+  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/b9738d51-d927-4206-a089-efcd584de7b0">
 </p>
 <p align="center">
-  <img src="(https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/b9738d51-d927-4206-a089-efcd584de7b0)">
-</p>
-<p align="center">
-  <img src="(https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/4a76134a-799c-4a07-b6be-2769b53eafcd)">
+  <img src="https://github.com/madorosjang/hanok_temp_n_humid_auto_control_system/assets/122807795/4a76134a-799c-4a07-b6be-2769b53eafcd">
 </p>
 
 ### 프로젝트 후 배운 점
